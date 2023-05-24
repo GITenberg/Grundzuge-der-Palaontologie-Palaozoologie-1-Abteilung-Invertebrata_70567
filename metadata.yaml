@@ -1,5 +1,8 @@
 _repo: Grundzuge-der-Palaontologie-Palaozoologie-1-Abteilung-Invertebrata_70567
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70567-h/images/cover.jpg
 creator:
   author:
     agent_name: Zittel, Karl Alfred von
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Karl_Alfred_von_Zittel
     - https://de.wikipedia.org/wiki/Karl_Alfred_von_Zittel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70567#Grundzuge-der-Palaontologie-Palaozoologie-1-Abteilung-Invertebrata
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70567'
